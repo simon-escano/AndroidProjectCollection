@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">AndroidProjectCollection</string>
+
+    <string name="txtLayoutExercise">Layout Exercise</string>
+    <string name="txtButtonsExercise">Buttons Exercise</string>
+    <string name="txtCalculator">Calculator</string>
+
+    <string name="txtButton">Button</string>
+    <string name="txtUser1">simonescano</string>
+    <string name="txtUser2">moltmalt</string>
+    <string name="txtUser3">aizerner</string>
+    <string name="txtUser4">jdserato</string>
+    <string name="txtUser5">satorugojo</string>
+    <string name="txtUser6">spunch_bop</string>
+    <string name="txtUser7">johndoe</string>
+    <string name="txtComment">Say something about this post...</string>
+    <string name="txtCaption1">I love nerds!</string>
+    <string name="txtCaption2">I love Android Studio</string>
+    <string name="txtCaption3">Cool and Normal!</string>
+
+    <string name="txtOpenAndClose">Open and Close</string>
+    <string name="txtToast">Toast</string>
+    <string name="txtChangeBg">Change BG</string>
+    <string name="txtChangeButtonBg">Change Button BG</string>
+    <string name="txtDisappear">Disappear</string>
+
+    <string name="txtReturn">Return</string>
+
+    <string name="txtNum1">1</string>
+    <string name="txtNum2">2</string>
+    <string name="txtNum3">3</string>
+    <string name="txtNum4">4</string>
+    <string name="txtNum5">5</string>
+    <string name="txtNum6">6</string>
+    <string name="txtNum7">7</string>
+    <string name="txtNum8">8</string>
+    <string name="txtNum9">9</string>
+    <string name="txtNum0">0</string>
+    <string name="txtAdd">+</string>
+    <string name="txtSub">-</string>
+    <string name="txtMul">*</string>
+    <string name="txtDiv">/</string>
+    <string name="txtEqu">=</string>
+    <string name="txtClr">C</string>
+    <string name="txtAllClr">AC</string>
+    <string name="txtPar">( )</string>
+    <string name="txtDot">.</string>
+
+    <string name="btn_midterm">Midterm</string>
+    <string name="btn_blank"> </string>
+    <string name="btn_return">Return</string>
+    <string name="btn_autowin">Auto-Win</string>
+    <string name="txt_winpercent">Win Percent: 0%</string>
+
+    <string name="btn_connect3">Connect 3</string>
+    <string name="txt_reset">Reset</string>
+
+    <string name="btn_passing_intents">Passing Intents</string>
+
+    <string-array name="txt_marital_statuses">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+        <item>Separated</item>
+    </string-array>
+
+    <string-array name="txt_year_levels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="txt_programs">
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Medical Technology</item>
+        <item>Industrial Design</item>
+        <item>Biomedical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Aerospace Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Environmental Engineering</item>
+        <item>Materials Science and Engineering</item>
+        <item>Nanotechnology</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Environmental Science</item>
+        <item>Medical Technology</item>
+    </string-array>
+
+    <string name="btn_fragments">Fragments</string>
+
+    <string name="btn_menus">Menus</string>
+</resources>
